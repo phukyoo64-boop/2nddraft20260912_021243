@@ -1,0 +1,303 @@
+{
+  "timestamp": "20260912_021243",
+  "cast_names": [
+    "Amanda",
+    "Casey",
+    "Rachel",
+    "Jaime",
+    "Zeke",
+    "Charlie",
+    "Lincoln1",
+    "Lincoln2",
+    "Desi"
+  ],
+  "drafts": [
+    {
+      "title": "Echoes of the Past",
+      "reasoning": "The 'I' in the source is an unnamed narrator. The chunk references Charlie, Rachel, and Desi, involving them in a time travel narrative. The dramatic conflict revolves around their attempts to change historical events. The setting is a podcast studio where the hosts discuss their time travel adventures and the implications for history.",
+      "scene": "The podcast studio is dimly lit, with a large circular table centered around a microphone. A few vintage recorders and monitors line the walls. In the midst of the chaos, Rachel, Desi, and Charlie sit around the table, their faces etched with determination and exhaustion. The room is filled with the hum of old machinery and the echo of distant time travel discussions.",
+      "dialogue": [
+        {
+          "character": "Charlie",
+          "line": "We need to get to Harper's Ferry.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Rachel",
+          "line": "Charlie, you know we can't change history.",
+          "cast_type": "canonical",
+          "raw_name": "Rachel",
+          "match_score": 1.0
+        },
+        {
+          "character": "Desi",
+          "line": "But I want to see the hanging!",
+          "cast_type": "canonical",
+          "raw_name": "Desi",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Charlie Manson's followers, Rachel and Desi, sit tense and anxious, their minds racing with the possibilities and dangers of their time travel mission.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Charlie",
+          "line": "But John Brown's hanging is crucial. We can't let Booth mess it up.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "They know their mission is fraught with peril, but they are determined to see it through.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Rachel",
+          "line": "What if we're wrong? What if we screw it up?",
+          "cast_type": "canonical",
+          "raw_name": "Rachel",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_12_20_16_04_23_transcription.txt",
+      "topics_hit": [
+        "history",
+        "lesbian",
+        "time travel",
+        "true crime"
+      ],
+      "keywords_hit": [
+        "john",
+        "podcast",
+        "ride",
+        "time"
+      ],
+      "dialogue_count": 7,
+      "speakers": [
+        "Charlie",
+        "Desi",
+        "NARRATOR",
+        "Rachel"
+      ]
+    },
+    {
+      "title": "Echoes of History",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely Charlie Manson, given the context. This chunk involves Charlie, Desi, and potentially Rachel. The dramatic conflict revolves around Charlie's interactions with women and his unspoken motivations. The setting fits a room where Charlie, Desi, and possibly Rachel are discussing their podcast or personal experiences.",
+      "scene": "Charlie and Desi sit in a dimly lit room filled with old books and artifacts. Desi looks at Charlie with a mixture of interest and confusion as he speaks. Rachel, who is present, seems to be eavesdropping, her eyes fixed on the conversation with a detached curiosity.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "It's not just some stock, but anyway, it's just been kind of fun.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "NARRATOR",
+          "line": "It's not even like we're flirting, but I got like looking in her eyes after she tells me something interesting, but it's weird too.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Charlie",
+          "line": "Cause like, I can get intimate with almost any woman, but when I'm attracted to them, it's just that much more.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Desi",
+          "line": "And then sometimes I'll be friends with a woman. Like there was another woman in West Hollywood where almost everybody's gay.",
+          "cast_type": "canonical",
+          "raw_name": "Desi",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "She told me she was a lesbian as far as I remember.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Charlie",
+          "line": "And so we became friends and I just looked at her like a buddy because she's kind of deicy.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Desi",
+          "line": "She's a homeless lady too, but I got along with her because she's funny.",
+          "cast_type": "canonical",
+          "raw_name": "Desi",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "And we were always talking. I did not think of her at all as a romantic partner.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Charlie",
+          "line": "I felt like, you know, intimate with her and like just laughing and talking all the time, but we're always joking and stuff and hanging out.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "But then one day this other girl like walked by cause I was sitting next to her in the back of the room.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Charlie",
+          "line": "And I was like, I was like, blah, blah, boom.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I said something like, I was like, oh, she was hot. I forget what I said.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Desi",
+          "line": "And she got like mad at me. She's like, what?",
+          "cast_type": "canonical",
+          "raw_name": "Desi",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "And I didn't realize it until later.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Charlie",
+          "line": "She, I think she even shed a tear later.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Cause like, and I was like, I thought you were a lesbian. You know, and it's like things like that happened to me a lot.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Like women, they just are there.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        }
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_10_15_16_52_29_transcription.txt",
+      "topics_hit": [
+        "history",
+        "lesbian",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "hanging",
+        "lesbian",
+        "time"
+      ],
+      "dialogue_count": 17,
+      "speakers": [
+        "Charlie",
+        "Desi",
+        "NARRATOR"
+      ]
+    },
+    {
+      "title": "Time's Echoes",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely describing Zeke's thoughts. This chunk involves Zeke, who is a struggling producer whose conflict is the failure of his 'Event.' The dramatic conflict is his desperate attempt to find enough money to travel to Los Angeles for his project. The setting is a small town, likely where Zeke is currently trying to make ends meet.",
+      "scene": "Zeke stands in the dimly lit, cluttered office of his struggling production company. The room is a mess of old scripts, empty coffee cups, and half-finished projects. A broken-down computer screen flickers with static. Outside, the town's main street is quiet, with only the occasional car driving by.",
+      "dialogue": [
+        {
+          "character": "Zeke",
+          "line": "I think the money that I made today or that I got was like so good.",
+          "cast_type": "canonical",
+          "raw_name": "Zeke",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I can't believe it. It was just so lucky.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Zeke",
+          "line": "Well, lucky, but no, I diligently traveled around looking for money.",
+          "cast_type": "canonical",
+          "raw_name": "Zeke",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "But first, that big bag of change was so good.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        },
+        {
+          "character": "Zeke",
+          "line": "So it was weird because I kind of had a sense. I was like, I think I have enough.",
+          "cast_type": "canonical",
+          "raw_name": "Zeke",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I thought I almost had enough to get to L.A.",
+          "cast_type": "narrator",
+          "raw_name": "Narrator",
+          "match_score": 0.29
+        }
+      ],
+      "rank": 3,
+      "source_file": "git-aichive/2025_10_16_20_09_07_transcription.txt",
+      "topics_hit": [
+        "history",
+        "lesbian",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "hanging",
+        "ride",
+        "time"
+      ],
+      "dialogue_count": 6,
+      "speakers": [
+        "NARRATOR",
+        "Zeke"
+      ]
+    }
+  ]
+}
