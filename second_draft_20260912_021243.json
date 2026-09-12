@@ -581,6 +581,11 @@
         "file": "draft3_line006_NARRATOR.mp3",
         "bytes": 21768
       }
-    ]
+    ],
+    "combined": {
+      "1": "draft1_combined.mp3",
+      "2": "draft2_combined.mp3",
+      "3": "draft3_combined.mp3"
+    }
   }
 }
