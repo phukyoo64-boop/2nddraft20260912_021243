@@ -299,5 +299,288 @@
         "Zeke"
       ]
     }
-  ]
+  ],
+  "voices": {
+    "generated_at": "20260912_022556",
+    "source_voice_repo": "phukyoo64-boop/18",
+    "char_map": {
+      "NARRATOR": "Amanda",
+      "Rachel": "Rachel",
+      "Desi": "Amanda",
+      "Zeke": "Zeke",
+      "Charlie": "CHARLIE"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "We need to get to Harper's Ferry.",
+        "file": "draft1_line001_Charlie.mp3",
+        "bytes": 31248
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "Rachel",
+        "voice_dir": "Rachel",
+        "line": "Charlie, you know we can't change history.",
+        "file": "draft1_line002_Rachel.mp3",
+        "bytes": 21120
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Desi",
+        "voice_dir": "Amanda",
+        "line": "But I want to see the hanging!",
+        "file": "draft1_line003_Desi.mp3",
+        "bytes": 11616
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Charlie Manson's followers, Rachel and Desi, sit tense and anxious, their minds racing with the possibilities and dangers of their time travel mission.",
+        "file": "draft1_line004_NARRATOR.mp3",
+        "bytes": 52152
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "But John Brown's hanging is crucial. We can't let Booth mess it up.",
+        "file": "draft1_line005_Charlie.mp3",
+        "bytes": 42600
+      },
+      {
+        "draft": 1,
+        "n": 6,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "They know their mission is fraught with peril, but they are determined to see it through.",
+        "file": "draft1_line006_NARRATOR.mp3",
+        "bytes": 33648
+      },
+      {
+        "draft": 1,
+        "n": 7,
+        "character": "Rachel",
+        "voice_dir": "Rachel",
+        "line": "What if we're wrong? What if we screw it up?",
+        "file": "draft1_line007_Rachel.mp3",
+        "bytes": 23904
+      },
+      {
+        "draft": 2,
+        "n": 1,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "It's not just some stock, but anyway, it's just been kind of fun.",
+        "file": "draft2_line001_NARRATOR.mp3",
+        "bytes": 30864
+      },
+      {
+        "draft": 2,
+        "n": 2,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "It's not even like we're flirting, but I got like looking in her eyes after she tells me something interesting, but it's weird too.",
+        "file": "draft2_line002_NARRATOR.mp3",
+        "bytes": 58272
+      },
+      {
+        "draft": 2,
+        "n": 3,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "Cause like, I can get intimate with almost any woman, but when I'm attracted to them, it's just that much more.",
+        "file": "draft2_line003_Charlie.mp3",
+        "bytes": 67200
+      },
+      {
+        "draft": 2,
+        "n": 4,
+        "character": "Desi",
+        "voice_dir": "Amanda",
+        "line": "And then sometimes I'll be friends with a woman. Like there was another woman in West Hollywood where almost everybody's gay.",
+        "file": "draft2_line004_Desi.mp3",
+        "bytes": 44040
+      },
+      {
+        "draft": 2,
+        "n": 5,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "She told me she was a lesbian as far as I remember.",
+        "file": "draft2_line005_NARRATOR.mp3",
+        "bytes": 26808
+      },
+      {
+        "draft": 2,
+        "n": 6,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "And so we became friends and I just looked at her like a buddy because she's kind of deicy.",
+        "file": "draft2_line006_Charlie.mp3",
+        "bytes": 41256
+      },
+      {
+        "draft": 2,
+        "n": 7,
+        "character": "Desi",
+        "voice_dir": "Amanda",
+        "line": "She's a homeless lady too, but I got along with her because she's funny.",
+        "file": "draft2_line007_Desi.mp3",
+        "bytes": 27168
+      },
+      {
+        "draft": 2,
+        "n": 8,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "And we were always talking. I did not think of her at all as a romantic partner.",
+        "file": "draft2_line008_NARRATOR.mp3",
+        "bytes": 35040
+      },
+      {
+        "draft": 2,
+        "n": 9,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "I felt like, you know, intimate with her and like just laughing and talking all the time, but we're always joking and stuff and hanging out.",
+        "file": "draft2_line009_Charlie.mp3",
+        "bytes": 77424
+      },
+      {
+        "draft": 2,
+        "n": 10,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "But then one day this other girl like walked by cause I was sitting next to her in the back of the room.",
+        "file": "draft2_line010_NARRATOR.mp3",
+        "bytes": 37728
+      },
+      {
+        "draft": 2,
+        "n": 11,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "And I was like, I was like, blah, blah, boom.",
+        "file": "draft2_line011_Charlie.mp3",
+        "bytes": 25872
+      },
+      {
+        "draft": 2,
+        "n": 12,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "I said something like, I was like, oh, she was hot. I forget what I said.",
+        "file": "draft2_line012_NARRATOR.mp3",
+        "bytes": 29736
+      },
+      {
+        "draft": 2,
+        "n": 13,
+        "character": "Desi",
+        "voice_dir": "Amanda",
+        "line": "And she got like mad at me. She's like, what?",
+        "file": "draft2_line013_Desi.mp3",
+        "bytes": 20328
+      },
+      {
+        "draft": 2,
+        "n": 14,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "And I didn't realize it until later.",
+        "file": "draft2_line014_NARRATOR.mp3",
+        "bytes": 16032
+      },
+      {
+        "draft": 2,
+        "n": 15,
+        "character": "Charlie",
+        "voice_dir": "CHARLIE",
+        "line": "She, I think she even shed a tear later.",
+        "file": "draft2_line015_Charlie.mp3",
+        "bytes": 42048
+      },
+      {
+        "draft": 2,
+        "n": 16,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Cause like, and I was like, I thought you were a lesbian. You know, and it's like things like that happened to me a lot.",
+        "file": "draft2_line016_NARRATOR.mp3",
+        "bytes": 41784
+      },
+      {
+        "draft": 2,
+        "n": 17,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Like women, they just are there.",
+        "file": "draft2_line017_NARRATOR.mp3",
+        "bytes": 13392
+      },
+      {
+        "draft": 3,
+        "n": 1,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "I think the money that I made today or that I got was like so good.",
+        "file": "draft3_line001_Zeke.mp3",
+        "bytes": 34512
+      },
+      {
+        "draft": 3,
+        "n": 2,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "I can't believe it. It was just so lucky.",
+        "file": "draft3_line002_NARRATOR.mp3",
+        "bytes": 20016
+      },
+      {
+        "draft": 3,
+        "n": 3,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "Well, lucky, but no, I diligently traveled around looking for money.",
+        "file": "draft3_line003_Zeke.mp3",
+        "bytes": 39672
+      },
+      {
+        "draft": 3,
+        "n": 4,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "But first, that big bag of change was so good.",
+        "file": "draft3_line004_NARRATOR.mp3",
+        "bytes": 26256
+      },
+      {
+        "draft": 3,
+        "n": 5,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "So it was weird because I kind of had a sense. I was like, I think I have enough.",
+        "file": "draft3_line005_Zeke.mp3",
+        "bytes": 37416
+      },
+      {
+        "draft": 3,
+        "n": 6,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "I thought I almost had enough to get to L.A.",
+        "file": "draft3_line006_NARRATOR.mp3",
+        "bytes": 21768
+      }
+    ]
+  }
 }
